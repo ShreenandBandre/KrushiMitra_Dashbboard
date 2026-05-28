@@ -9,7 +9,7 @@
  *   "duration_minutes": 30,
  *   "reason": "manual_override|auto_trigger"
  * }
- */
+ */   
 
 export async function POST(request: Request) {
   try {
