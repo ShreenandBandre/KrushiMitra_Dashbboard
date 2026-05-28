@@ -13,7 +13,7 @@ import {
   BarChart3,
   ChevronRight,
   Code,
-  Zap,
+  Zap, 
 } from "lucide-react";
 
 export default function HomePage() {
