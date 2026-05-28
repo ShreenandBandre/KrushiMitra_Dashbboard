@@ -16,6 +16,8 @@ import { WaterManagement } from "@/components/WaterManagement";
 import { ComparativeAnalytics } from "@/components/ComparativeAnalytics";
 import { AlertsPanel } from "@/components/AlertsPanel";
 
+
+
 interface SensorReading {
   id: number;
   timestamp: string;
