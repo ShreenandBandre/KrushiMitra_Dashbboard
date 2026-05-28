@@ -10,7 +10,7 @@ import {
   Legend,
   ResponsiveContainer,
   Cell,
-} from "recharts";
+} from "recharts"; 
 
 interface NPKCardProps {
   nitrogen: number;
