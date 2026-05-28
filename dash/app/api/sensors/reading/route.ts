@@ -17,7 +17,7 @@
  *   "potassium": 95,
  *   "water_level": 450
  * }
- */
+ */ 
 
 export async function POST(request: Request) {
   try {
